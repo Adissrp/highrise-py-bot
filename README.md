@@ -41,16 +41,16 @@ class config:
 class authorization:
     # To obtain your token, visit https://highrise.game/ and log in. Then, go to the settings and create a new bot. Accept the terms and generate a token.
     # To obtain your room ID, go to the game and navigate to the top right corner where the player list is displayed. Click on "Share this room" and copy the ID.
-    room = 'change-me'
-    token = 'change-me'
+    room = '666031aad00dd4705ece697a'
+    token = '28ddf120a8321f1d22629ede3bd78fdac06f949540753f66675b8761e54a702a'
 ```
 PATH: config/permission.json
 ```json
 {
     "permissions": [
         {
-            "user_id": "change-me",
-            "username": "change-me",
+            "user_id": "Mamad.meow",
+            "username": "mamad.meow",
             "permissions": [
                 "emote"
             ]
